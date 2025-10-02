@@ -31,4 +31,4 @@ Este repositório contém as soluções em Python para quatro exercícios de Alg
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/brunifruni/projeto-final-LPA.git
